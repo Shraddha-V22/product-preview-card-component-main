@@ -13,6 +13,12 @@ Users should be able to:
 
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/97953020/209819130-5cb1c873-b3b0-4fd2-a3bc-ad88cf8ee8bc.png">
 
+### Links
+
+- Solution URL: https://github.com/Shraddha-V22/product-preview-card-component-main
+- Live Site URL: https://gabrielle-parfum.netlify.app/
+
+
 ## My process
 
 ### Built with
