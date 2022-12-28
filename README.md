@@ -11,6 +11,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/97953020/209819130-5cb1c873-b3b0-4fd2-a3bc-ad88cf8ee8bc.png">
+
 ## My process
 
 ### Built with
@@ -26,7 +28,7 @@ I understood that it is important to create a simple structure first and then st
 
 ### Continued development
 
-I want to focus on creating sites and learn to not write unnecessary codes.
+I want to focus on learning new things while creating more sites and learn to not write unnecessary codes.
 
 ## Author
 
