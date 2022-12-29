@@ -118,6 +118,11 @@ img#product-img-mobile {
   border-radius: 7px;
 }
 
+#add-to-cart-btn:hover {
+  cursor: pointer;
+  background-color: var(--dark-blue);
+}
+
 #add-to-cart-btn img {
   width: 14px;
 }
